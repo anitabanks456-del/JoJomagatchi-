@@ -1,4 +1,4 @@
-const CACHE = "valentine-v2";
+const CACHE = "valentine-v7";
 const ASSETS = [
   "./",
   "./index.html",
@@ -12,7 +12,8 @@ const ASSETS = [
   "./sprites/eat.png",
   "./sprites/play.png",
   "./sprites/clean.png",
-  "./sprites/sad.png"
+  "./sprites/sad.png",
+  "./sprites/JBL.png"
 ];
 
 self.addEventListener("install", (e) => {
